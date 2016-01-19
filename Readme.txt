@@ -1,4 +1,4 @@
-Main components:
+Main components: Project Spinal
 
 Size: 20x20 mm
 CPU: SAMD21G18A
